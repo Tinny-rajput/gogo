@@ -10,6 +10,9 @@ export default function Video({ src }) {
         src={src}
         frameBorder="0"
         allowFullScreen="true"
+        allowFullScreen="true"
+        webkitallowfullscreen="true" 
+        mozallowfullscreen="true"
       />
     </div>
   );
