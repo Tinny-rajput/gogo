@@ -22,7 +22,7 @@ export default function Footer() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.facebook.com/axnguyenit/"
+                  href="https://www.facebook.com/"
                   className="p-1 rounded-full"
                 >
                   <svg viewBox="0 0 24 24" width="24" height="24">
@@ -33,7 +33,7 @@ export default function Footer() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/axnguyenit/"
+                  href="https://github.com/Tinny-rajput?tab=repositories"
                   className="p-1 rounded-full"
                 >
                   <svg width="24" height="24" viewBox="0 0 24 24">
@@ -47,7 +47,7 @@ export default function Footer() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.instagram.com/nguyendinhkha2k1"
+                  href="https://www.instagram.com/tinny_rajput8"
                   className="p-1 rounded-full"
                 >
                   <svg width="24" height="24" viewBox="0 0 24 24">
@@ -123,7 +123,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="flex mt-568:flex-row flex-col items-center justify-between mt-10">
-          <p>&#169; 2021 Ax Nguyen</p>
+          <p>&#169; 2022 GoGoMoviw</p>
           <div className="space-x-4">
             <Link to="/" className="hover:text-red-600 duration-200">
               Terms & Agreements
