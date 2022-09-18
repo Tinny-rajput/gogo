@@ -33,7 +33,7 @@ export default function PlayMovie() {
         setOverview(response);
       } else {
         setOverview(response);
-        const { results } = await tmdbApi.getTrendingList(category, {
+        const { results } = await(category, {
           params,
         });
         setSeasons(results);
